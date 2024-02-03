@@ -1,16 +1,15 @@
-### Oi 👋, meu nome é
+### Oi 👋, meu nome é Pedro
 
-<!--
-**PedroHMoraesPacheco/PedroHMoraesPacheco** 
+Sou um Desenvolvedor Full-Stack e Mulesoft MCD1, com foco em back-end 🖥️. 
+Iniciei minha jornada profissional ano passado, mas pratico programação desde a adolescência.
 
-Here are some ideas to get you started:
+Trabalho como Full-Stack, mas admito que tenho uma preferência especial pelo Back-end 😌.
+Trabalho principalmente com Java, mas tenho conhecimento tambémm com C#, React Native e Javascript. 
+Além disso sou um desenvolvedor certificado de Mulesoft, nível MCD1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Informações adicionais:
+
+- 🌎 Atualmente morando em Petrópolis, Rio de Janeiro, Brasil.
+- 📫 Email: phmp512003@gmail.com
+- 😄 Pronomes: Ele/dele | He/him
+
