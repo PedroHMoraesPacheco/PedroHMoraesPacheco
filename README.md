@@ -1,7 +1,6 @@
 ### Oi 👋, meu nome é Pedro
 
 Sou um Desenvolvedor Full-Stack e Mulesoft MCD1, com foco em back-end 🖥️. 
-Iniciei minha jornada profissional ano passado, mas pratico programação desde a adolescência.
 
 Trabalho como Full-Stack, mas admito que tenho uma preferência especial pelo Back-end 😌.
 Trabalho principalmente com Java, mas tenho conhecimento tambémm com C#, React Native e Javascript. 
